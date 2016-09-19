@@ -9,23 +9,23 @@
       "ideas": {},
       "attr": {
         "position": [
-          64,
-          95,
+          151,
+          3,
           1
         ],
         "style": {}
       }
     },
-    "31": {
+    "-10": {
       "title": "Yet Another",
       "id": 6,
       "attr": {
+        "style": {},
         "position": [
-          75,
-          183,
+          -18,
+          258,
           2
-        ],
-        "style": {}
+        ]
       }
     }
   },
@@ -33,5 +33,17 @@
     "style": {
       "background": "#FF0000"
     }
-  }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 6,
+      "ideaIdTo": 2,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ]
 }
