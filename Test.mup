@@ -3,7 +3,7 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "21": {
+    "1": {
       "title": "Another",
       "id": 2,
       "ideas": {
@@ -18,7 +18,7 @@
         }
       }
     },
-    "-10": {
+    "2": {
       "title": "Yet Another",
       "id": 6,
       "attr": {
