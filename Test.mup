@@ -1,0 +1,16 @@
+{
+  "title": "Test",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Another",
+      "id": 2,
+      "ideas": {}
+    },
+    "11": {
+      "title": "YA",
+      "id": 6
+    }
+  }
+}
