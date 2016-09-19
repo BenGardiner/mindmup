@@ -3,14 +3,35 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "1": {
+    "21": {
       "title": "Another",
       "id": 2,
-      "ideas": {}
+      "ideas": {},
+      "attr": {
+        "position": [
+          64,
+          95,
+          1
+        ],
+        "style": {}
+      }
     },
-    "11": {
+    "31": {
       "title": "Yet Another",
-      "id": 6
+      "id": 6,
+      "attr": {
+        "position": [
+          75,
+          183,
+          2
+        ],
+        "style": {}
+      }
+    }
+  },
+  "attr": {
+    "style": {
+      "background": "#FF0000"
     }
   }
 }
