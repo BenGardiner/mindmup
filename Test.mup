@@ -6,7 +6,12 @@
     "21": {
       "title": "Another",
       "id": 2,
-      "ideas": {}
+      "ideas": {
+        "1": {
+          "title": "Deeper",
+          "id": 8
+        }
+      }
     },
     "-10": {
       "title": "Yet Another",
